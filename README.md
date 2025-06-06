@@ -1,2 +1,4 @@
 # Deep-Learning-FPT
-Some projects on class
+These are projects on class
+## Project 1: Hyperparameters tuning
+We try to achieve better metrics by using algorithms that search for hyperparameters, such as Bayes Optimization, Genetic Algorithm
