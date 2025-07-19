@@ -1,6 +1,11 @@
 # Deep-Learning-FPT
 # Projects on class
 
+## Convolution step by step
+- This notebook is based on an assignment from the [Convolutional Neural Networks course](https://www.coursera.org/learn/convolutional-neural-networks) by DeepLearning.AI. 
+- I completed the implementation as part of my own learning process.  
+- Modifications, comments, and explanation are my own. **For educational purposes only.**
+- This notebook implements forward propagration, backpropragation of volume convolution: 1 layer (Input -> Conv -> Pooling -> Output)
 ## Sentiment Analysis - Binary classification
 - Using the dataset ibmdb_reviews which containts 50,000 reviews films, splitted into 25k train and 25k test, labels are 0 or 1 as negative or positive
 - Techniques used: Word embedding, bidirectional LSTM, Dropout, L2 Regularization
