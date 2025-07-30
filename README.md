@@ -21,4 +21,15 @@
    
 ## Project 1: Hyperparameters tuning
 - I try to achieve better metrics by using algorithms that search for hyperparameters, such as Bayes Optimization, Genetic Algorithm
-- Genetic Algorithm requires a **REALLY** long time for searching and a strong device to train, recommend for the Bayes 
+- This project is comparison on optimizers (Bayes Optimization and Genetic algorithm) on the Fashion MNIST dataset
+- Genetic Algorithm requires a **really** long time for searching and a strong device to train, recommend for the Bayes
+
+## Project 2: Deepfake detection
+- My team and I used pre-trained ResNet50 to distinguish between real and deepfake images with a pretty number ~ 81% on test data
+- Architecture: Based Model (ResNet50) -> Pooling -> Densely -> Output
+- For more details, check on Project 2 - DPL.pdf (Vietnamese), slide: Deepfake detection.pdf
+
+## Project 3: Speech emtion recognition
+- With the same architecture (2 x CNN -> LSTM -> Output), same distribution of train - test set, this aims to compare performance model using normal data vs augmentation data
+- Datasets used: Crema_D, RAVDESS, SAVEE, TESS. These 4 datasets express emotion through voice, not through meaning of words.
+- For more details, check on DPL-Project-3- Report.pdf (Vietnamese), slide: Project 3 - DPL.pdf
