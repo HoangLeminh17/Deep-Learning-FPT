@@ -28,8 +28,12 @@
 - My team and I used pre-trained ResNet50 to distinguish between real and deepfake images with a pretty number ~ 81% on test data
 - Architecture: Based Model (ResNet50) -> Pooling -> Densely -> Output
 - For more details, check on Project 2 - DPL.pdf (Vietnamese), slide: Deepfake detection.pdf
+- Link dataset: https://drive.google.com/file/d/1HnrO5sGg8gc2VuC1dUHE_62WIbYMSXid/view?usp=sharing
+- Link model.h5: https://drive.google.com/file/d/1LF-fYG8r5gXuvHmEEA2y8xLyKeE7Z5pB/view?usp=sharing
 
 ## Project 3: Speech emtion recognition
 - With the same architecture (2 x CNN -> LSTM -> Output), same distribution of train - test set, this aims to compare performance model using normal data vs augmentation data
 - Datasets used: Crema_D, RAVDESS, SAVEE, TESS. These 4 datasets express emotion through voice, not through meaning of words.
 - For more details, check on DPL-Project-3- Report.pdf (Vietnamese), slide: Project 3 - DPL.pdf
+- Link dataset: https://drive.google.com/file/d/1jS8GiWf2PMS_91gGcjCwESsA0MSuyOT9/view?usp=sharing
+
